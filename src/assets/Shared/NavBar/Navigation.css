@@ -1,0 +1,31 @@
+.button{
+    background-color: orangered;
+    border-radius: 20px;
+    color:white;
+}
+
+.nav-bar{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 15px;
+    align-items: center;
+    margin: auto;
+}
+.n-link{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    padding-right: 5px;
+    padding-right: 5px;
+}
+ .n-link:hover{
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+ }
+
+ #navbarScrollingDropdown:hover{
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+ }
